@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+
+body {
+    margin: auto;
+    background-color: #8de2b3;
+}
+
+header {
+    background-image: linear-gradient(to top, #1A5C38, #46da89);
+    color: white;
+    padding: 10px;
+}
+
+main {
+    margin: auto;
+    width: 820px;
+    background-color: white;
+    border-radius: 0px 0px 10px 10px;
+    padding: 10px;
+    box-shadow:  0px 0px 10px 5px rgba(0, 0, 0, 0.185);
+}
+
+h1#titulo {
+    color: white;
+    text-align: center;
+    font-family: Roboto Flex;
+    font-weight: bolder;
+    text-shadow: rgba(0, 0, 0, 0.308) 2px 2px;
+}
+
+p#subtitulo {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: rgba(0, 0, 0, 0.308) 2px 2px;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+nav > a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'idroid';
+    color: #1A5C38;
+    
+}
+
+h2 {
+    font-family: 'idroid';
+    color: #1A5C38;
+    background-image: linear-gradient(to right, #C1F3D7, white);
+    
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    color: black;
+    text-align: justify;
+}
+
+picture {
+    margin: 10px;
+}
+
+div#bug {
+    text-align: center;
+}
+
+div#video {
+    background-color: #1A5C38;
+    text-align: center;
+    padding: 10px;
+}
+
+h3 {
+    background-color: #2FA866;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+    margin: 10px 0px 0px 0px;
+    box-shadow:  5px 5px 3px 0px rgba(0, 0, 0, 0.185);
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+div#final {
+    background-color: #98e9bdd3;
+    margin: 0px;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow:  5px 5px 3px 0px rgba(0, 0, 0, 0.185);
+    
+}
+
+footer {
+    background-color: #1A5C38;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    margin: 15px 0px 0px 0px;
+}
+
+footer > p {
+    margin: 0px;
+}
+
+p#unico {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: white;
+    text-align: center;
+}
